@@ -15,7 +15,7 @@ $ composer require bangpound/silex-bundle
 
 Usage
 -----
-In `config/silex' directory, create a file named `app.php` with the following contents:
+In `config/silex` directory, create a file named `app.php` with the following contents:
 
 ```php
 <?php
